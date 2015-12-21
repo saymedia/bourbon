@@ -2,7 +2,7 @@
 
 ## A simple and lightweight mixin library for Sass.
 
-### _This is the v3.2.4 branch_
+### _This is the v3.2.5 branch_
 
 Bourbon is a library of pure Sass mixins that are designed to be simple and easy to use. No configuration required. The mixins aim to be as vanilla as possible, meaning they should be as close to the original CSS syntax as possible.
 

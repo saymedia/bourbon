@@ -1,7 +1,7 @@
 {
   "name": "bourbon",
-  "description": "A simple and lightweight mixin library for Sass.",
-  "version": "3.2.4",
+  "description": "A simple and lightweight mixin library for Sass. (Pathched version for Phoenix)",
+  "version": "3.2.5",
   "main": "dist/_bourbon.scss",
   "license": "MIT",
   "ignore": [
